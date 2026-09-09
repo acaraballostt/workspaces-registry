@@ -1,6 +1,6 @@
 {
   "friendly_name": "Windows 11",
-  "image_src": "blob:https://kasmregistry.linuxserver.io/983cc4c6-ad74-411b-99a8-b3a1e73537b0",
+  "image_src": "Windows-11-logo.png",
   "description": "Windows 11 Desktop",
   "name": "dockurr/windows",
   "cores": 2,
