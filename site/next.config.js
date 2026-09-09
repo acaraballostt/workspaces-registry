@@ -8,10 +8,10 @@ const nextConfig = {
     description: 'Specialized List of Apps for Workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://github.com/acaraballostt/workspaces-registry/',
-    contactUrl: 'https://github.com/acaraballostt/workspaces-registry/',
+    contactUrl: 'https://github.com/acaraballostt/',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
