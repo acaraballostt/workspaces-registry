@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://github.com/acaraballostt/',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.1',
+  basePath: '/workspaces-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
