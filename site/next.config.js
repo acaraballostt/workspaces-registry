@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     nname: 'AC-Workspaces-Reg',
     description: 'Specialized List of Apps for Workspaces.',
-    icon: 'https://github.com/acaraballostt/workspaces-registry/1.0/site/workspaces.png',
+    icon: 'https://github.com/acaraballostt/workspaces-registry/1.0/workspaces.png',
     listUrl: 'https://github.com/acaraballostt/workspaces-registry/',
     contactUrl: 'https://github.com/acaraballostt/',
   },
